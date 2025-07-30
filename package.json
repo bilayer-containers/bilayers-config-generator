@@ -2,7 +2,7 @@
   "name": "bilayers-config-generator",
   "version": "0.1.0",
   "description": "An interactive web application for generating YAML configuration files for bilayers algorithms",
-  "homepage": "https://github.com/bilayer-containers/bilayers-config-generator#readme",
+  "homepage": "https://bilayer-containers.github.io/bilayers-config-generator",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bilayer-containers/bilayers-config-generator.git"
