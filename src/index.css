@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.glass {
+  @apply bg-white/10 backdrop-blur-md border border-white/20 rounded-xl;
+}
+
+.glass-magenta {
+  @apply bg-slate-500/10 backdrop-blur-md border border-purple-300/30 rounded-xl;
+}

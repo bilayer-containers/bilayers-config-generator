@@ -1,0 +1,52 @@
+{
+  "name": "bilayers-config-generator",
+  "version": "0.1.0",
+  "description": "An interactive web application for generating YAML configuration files for bilayers algorithms",
+  "homepage": "https://github.com/bilayer-containers/bilayers-config-generator#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilayer-containers/bilayers-config-generator.git"
+  },
+  "keywords": [
+    "bilayers",
+    "configuration",
+    "yaml",
+    "generator",
+    "react",
+    "vite",
+    "algorithms"
+  ],
+  "authors": [
+    {"name": "Rajavi Shah", "email": "shahraja@broadinstitute.org"},
+    {"name": "Nodar Gogoberidze", "email": "gnodar01@gmail.com"},
+    {"name": "Beth Cimini", "email": "bcimini@broadinstitute.org"}
+  ],
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/bilayer-containers/bilayers-config-generator/issues"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@monaco-editor/react": "^4.7.0",
+    "@radix-ui/react-icons": "^1.3.2",
+    "class-variance-authority": "^0.7.1",
+    "js-yaml": "^4.1.0",
+    "lucide-react": "^0.525.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.59.0",
+    "tailwind-variants": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.4.14",
+    "path": "^0.12.7",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.0.0"
+  }
+}
