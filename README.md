@@ -2,18 +2,18 @@
 
 A modern, interactive web application for generating YAML configuration files for bilayers algorithms. Built with React, Vite, and Tailwind CSS.
 
-## ✨ Features
+## Features
 
 - **Interactive Configuration Builder**: Create comprehensive algorithm configurations through an intuitive UI
 - **Real-time YAML Generation**: See your configuration as YAML code in real-time
 - **Comprehensive Component Support**:
-  - Docker Image configuration
+  - Citations 
+  - Docker Image
   - Algorithm folder setup
   - Execution function with hidden arguments
   - Input/Output configurations with conditional fields
   - Parameters with type-specific options
   - Display-only items
-  - Citations management
 - **Glass Morphism UI**: Beautiful modern interface with blur effects
 - **Monaco Editor Integration**: Syntax-highlighted YAML editing
 - **Type-safe Configuration**: Intelligent form validation and conditional fields
